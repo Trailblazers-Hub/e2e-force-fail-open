@@ -8,6 +8,9 @@
     "start-be": "cd be && npm run dev",
     "start-fe": "cd fe && npm start"
   },
+  "dependencies": {
+    "express": "^4.20.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/metju90/crowdhouse.git"
